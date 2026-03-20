@@ -1,5 +1,5 @@
 ---
-title: "GISRUK 2025 : University of Bristol"
+title: "GISRUK 2026 : Birmingham University"
 ---
 
 ::: {.callout-important icon=true}
@@ -7,21 +7,13 @@ title: "GISRUK 2025 : University of Bristol"
 
 ### Updates
 
-**Welcome**. We very much look forward to seeing you in Bristol! Keep an eye out on this page as we post further updates in the next few days. 
+**Welcome**. We very much look forward to seeing you in Birmingham! Keep an eye out on this page as we post further updates in in the run up to and during the conference. 
 
-<!--
-**Best paper / poster prize**. As ever, remember to vote for the [{{< fa solid link >}}Best Paper awards](https://forms.office.com/e/6nf8Ut36ZF).  
-
-
-**Socials**. This evening's conference dinner is at [{{< fa solid link >}}Browns?]() from 1900. 
--->
-
-:::
 
 
 ---------
 
-Welcome to the 33rd Annual GIS Research UK Conference. The conference will be hosted at University of Bristol on 23rd – 25th April 2025.
+Welcome to the 34th Annual GIS Research UK Conference. The conference will be hosted at Birmingham University 15th – 17th April 2026.
 
 GISRUK attracts international researchers and practitioners from geographic information science and related fields to share and discuss the latest advances in spatial computing and analysis. The work presented at GISRUK covers fundamental research, methodological approaches, and applications of GIScience across many domains.
 
