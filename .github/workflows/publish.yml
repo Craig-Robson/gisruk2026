@@ -35,6 +35,10 @@ jobs:
           install.packages(c("rmarkdown", "tidyverse", "otherpackage"))
         shell: Rscript {0}
 
+      - name: Install gt package
+        run: |
+          Rscript -e "install.packages('gt', repos='https://cloud.r-project.org')"
+
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
