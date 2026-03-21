@@ -22,7 +22,7 @@ jobs:
      
       - name: Install rmarkdown
         run: |
-          install.packages(c("rmarkdown", "tidyverse", "otherpackage")))
+          install.packages(c("rmarkdown", "tidyverse", "otherpackage"))
         shell: Rscript {0}
 
       - name: Render and Publish
