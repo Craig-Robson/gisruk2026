@@ -21,6 +21,11 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y libcurl4-openssl-dev libfontconfig1-dev libfreetype6-dev libharfbuzz-dev libfribidi-dev
+
+      - name: Install system dependencies for ragg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libfreetype6-dev libpng-dev libtiff5-dev libjpeg-dev libwebp-dev libwebpmux-dev
           
       - name: Set up RLang
         uses: r-lib/actions/setup-r@v2
