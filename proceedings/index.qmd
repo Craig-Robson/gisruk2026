@@ -5,7 +5,7 @@ subtitle: "preparing your submission"
 
 GISRUK uses [Zenodo](https://zenodo.org) to host the annual GISRUK conference proceedings. Zenodo provides an open access repository to host the proceedings and offers long term availability of these resources. Every GISRUK paper/abstract uploaded to Zenodo is given a unique DOI which allows for wider dissemination and citation of these works. 
 
-As an example, last year's proceedings are available at [`zenodo.org/gisruk2025`](https://zenodo.org/communities/gisruk2025).
+The proceedings for GISRUK 2026 are available on [Zenodo](https://zenodo.org/communities/gisruk2026/records?q=&l=list&p=1&s=100&sort=newest) - from here you can access the PDF versions of all of the accepted papers for GISRUK 2026. Each proceedings entry has its own DOI. When sharing the link to any of the proceedings entries please used the DOI. You can use the previous link to share the general link to the full set of proceedings. 
 
 There are a number of important steps to consider before your paper can be uploaded to Zenodo for the GISRUK 2026 proceedings. A simple checklist to prepare your document for the proceedings is provided below. Failure to follow the steps below may result in your paper not being included in the GISRUK 2026 proceedings. 
 
