@@ -109,6 +109,7 @@ talks |> arrange(desc(date), time, room) |> arrange(session_no) |> group_by(sess
         time=md("**Time**")
     )
 
+```
 # Conference Dinner 
 The Conference will be held at [The Exchange](https://www.birmingham.ac.uk/the-exchange/), a University of Birmingham building located in central Birmingham. The meal has been designed to celebrate the [Helios Exhibition](https://www.birmingham.ac.uk/the-exchange/events/helios) that opens in March 2026.
 
@@ -119,6 +120,3 @@ The Conference will be held at [The Exchange](https://www.birmingham.ac.uk/the-e
 The three courses will last around 90 minutes to two hours. Drinks are not included within the meal, but there is a pay as you go bar.
 
 Dress code is smart casual / business casual.
-
-
-```
