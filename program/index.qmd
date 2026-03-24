@@ -56,7 +56,7 @@ posters <- submissions |> filter(is.na(session)) |> select(-session, -session_no
 ```
 
 # Program at a glance
-Unless otherwise stated, all rooms are in the [Priory Road Complex](../venue). 
+Unless otherwise stated, all rooms are in the [Old Engineering Building (Y3)](../venue). 
 
 
 
