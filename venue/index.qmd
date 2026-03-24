@@ -9,7 +9,7 @@ include-in-header: ../venue_header.html
 
 GISRUK 2026 will be held on the University of Birmingham’s campus in Edgbaston. The campus is located approximately 10 minutes by train from Birmingham New Street. The station located on campus is called “University”. The Conference will take place in Y3, the former Engineering building.  
 
-Edgbaston Park Hotel is located on campus, but there are many more accommodation options in Birmingham City Centre. The conference will start at 9.30 on Thursday and Friday to allow time for transit between the city centre and campus. The Conference Dinner will take place on Thursday evening in the city centre, at The Exchange building. There will be a less formal social event on campus on Wednesday. Details to follow. 
+The Conference Dinner will take place on Thursday evening in the city centre, at The Exchange building. There will be a less formal social event on campus on Wednesday. Details to follow. 
 
 Directions to campus can be found [here](https://www.birmingham.ac.uk/contact/directions/getting-here-edgbaston).
 Campus map can be found [here](https://www.birmingham.ac.uk/visit/maps-and-directions).
