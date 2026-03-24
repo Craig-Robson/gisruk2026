@@ -13,7 +13,7 @@ title: "GISRUK 2026 : Birmingham University"
 
 ---------
 
-Welcome to the 34th Annual GIS Research UK Conference. The conference will be hosted at Birmingham University 15th – 17th April 2026.
+Welcome to the 34th Annual GIS Research UK Conference. The conference will be hosted at University of Birmingham 15th – 17th April 2026.
 
 GISRUK attracts international researchers and practitioners from geographic information science and related fields to share and discuss the latest advances in spatial computing and analysis. The work presented at GISRUK covers fundamental research, methodological approaches, and applications of GIScience across many domains.
 
@@ -26,5 +26,5 @@ We welcome papers covering all aspects of GIS, both methodological and applied. 
 ## Key Dates
 
 * Call for papers: ~~30 January 2026~~  
-* Registration deadline: 23 March 2026
+* Registration deadline: ~~23 March 2026~~
 * Conference: 14-17 April 2026
