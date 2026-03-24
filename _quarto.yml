@@ -13,7 +13,7 @@ resources:
   - CNAME
 
 website:
-  title: "GISRUK 2025"
+  title: "GISRUK 2026"
   favicon: "img/favicon/favicon.ico"
   navbar:
     logo: "img/favicon/apple-touch-icon.png"
@@ -36,11 +36,11 @@ website:
             text: GISRUK & OSGeo:UK GoFundGeo Award
       - text: "Attending"
         menu:
-          - href: https://shop.bris.ac.uk/conferences-and-events/faculty-of-science/geographical-sciences/conferences/the-33rd-annual-gisruk-conference
+          - href: https://uobevents.eventsair.com/gisruk-2026/gisruk-registration/
             text: Registration
           - href: venue/
             text: Venues
-          - href: https://meetbristolbathres.bzon.uk/event/33rd-annual-gis-research-uk-conference/ 
+          - href: https://www.edgbastonparkhotel.com/ 
             text: Accommodation 
       - text: "Programme"
         menu:
