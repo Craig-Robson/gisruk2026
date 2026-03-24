@@ -56,7 +56,7 @@ posters <- submissions |> filter(is.na(session)) |> select(-session, -session_no
 ```
 
 # Program at a glance
-Unless otherwise stated, all rooms are in the [Priory Road Complex](../venue). 
+Unless otherwise stated, all rooms are in the [Old Engineering Building (Y3)](../venue). 
 
 
 
@@ -108,4 +108,15 @@ talks |> arrange(desc(date), time, room) |> arrange(session_no) |> group_by(sess
         room=md("**Room**"),
         time=md("**Time**")
     )
+
 ```
+# Conference Dinner 
+The Conference will be held at [The Exchange](https://www.birmingham.ac.uk/the-exchange/), a University of Birmingham building located in central Birmingham. The meal has been designed to celebrate the [Helios Exhibition](https://www.birmingham.ac.uk/the-exchange/events/helios) that opens in March 2026.
+
+7.00 pm – Arrivals
+
+7.30 pm – Start of food service
+
+The three courses will last around 90 minutes to two hours. Drinks are not included within the meal, but there is a pay as you go bar.
+
+Dress code is smart casual / business casual.

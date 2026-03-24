@@ -4,14 +4,21 @@ title: "Organisation"
 
 <!-- TODO: add links to each person's landing page -->
 
-GISRUK2025 is hosted by the [School of Geographical Sciences](https://bristol.ac.uk/geography) at the University of Bristol. Our local organising committee is
+GISRUK2026 is hosted by the [School of Engineering](https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-sciences/engineering) at the University of Birmingham. Our local organising committee is
 
-- Levi John Wolf
-- Rui Zhu
-- Caitlin Robinson
-- Lenka Hasova
-- Rich Harris
-- Qiujie Shi
-- Emmanouil Tranos
-- Ce Zhang
-- Richard Timmerman
+- Emma Ferranti  
+- Sarah Greenham
+- Daniel Donaldson
+- Simon Blainey
+- Stephen Jones 
+- Naya Desai
+- Shukurat Bankole
+- Harry Kirby
+- Deanne Brettle
+- Eugene McGee
+- Nasrul Ghazali
+- Ross Bangs 
+- Shomart Healy
+- Ruojing Zhang 
+- Nicholas Cork 
+- Tahmina Akter 
