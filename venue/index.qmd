@@ -3,16 +3,17 @@ title: Venue
 include-in-header: ../venue_header.html
 ---
 
-## ![](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png) Conference Venue: Priory Road Complex, University of Bristol
+## Conference Venue: Y3, Old Engineering Building, University of Brimingham
 
-> Priory Road Complex, 12 Priory Road, Clifton, BS8 1TU
+> Old School of Engineering, 142 Edgbaston Park Rd, Birmingham B15 2TT
 
-![](https://keystoneacademic-res.cloudinary.com/image/upload/f_auto/q_auto/g_auto/w_650/dpr_2.0/element/24/241331_2336_10016853.png "Priory Road Complex Entrance")
+GISRUK 2026 will be held on the University of Birmingham’s campus in Edgbaston. The campus is located approximately 10 minutes by train from Birmingham New Street. The station located on campus is called “University”. The Conference will take place in Y3, the former Engineering building.  
 
-This year's GISRUK will be held at the Priory Road Complex, which is a teaching and events space at the University of Bristol.
-It is situated in the heart of campus, close to the Clifton Down train station.
+Edgbaston Park Hotel is located on campus, but there are many more accommodation options in Birmingham City Centre. The conference will start at 9.30 on Thursday and Friday to allow time for transit between the city centre and campus. The Conference Dinner will take place on Thursday evening in the city centre, at The Exchange building. There will be a less formal social event on campus on Wednesday. Details to follow. 
 
-More information about the venue can be found [here](https://www.bristol.ac.uk/venues/meetings/priory-road-complex/).
+Directions to campus can be found [here](https://www.birmingham.ac.uk/contact/directions/getting-here-edgbaston).
+Campus map can be found [here](https://www.birmingham.ac.uk/visit/maps-and-directions).
+Edgbaston hotel details can be found [here](https://www.edgbastonparkhotel.com/).
 
 <!-- TODO: populate once booked 
 
