@@ -12,53 +12,10 @@ library(tidyverse)
 library(knitr)
 library(gt)
 
-submissions = read_csv("./sessions.csv") |> select(
-    firstname, lastname, title, session, session_no, room, day, chair, status
-) |> mutate(
-    date = case_when(
-        day==1 ~ "Wednesday, April 23",
-        day==2 ~ "Thursday, April 24",
-        day==3 ~ "Friday, April 25"
-    ),
-    time = case_when(
-        session_no == 1 ~ "14:30 - 15:30",
-        session_no == 2 ~ "15:45 - 16:45",
-        session_no == 3 ~ "09:30 - 10:30",
-        session_no == 4 ~ "11:00 - 12:00",
-        session_no == 5 ~ "14:30 - 15:30",
-        session_no == 6 ~ "15:45 - 16:45",
-        session_no == 7 ~ "09:00 - 10:00"
-    )
-)
-
-sessions <- submissions |> filter(!is.na(chair)) |> select(session, session_no, room, date, time, chair) |> rename(start_time='time') |> arrange(desc(date), start_time)
-
-
-talks <- submissions |> filter(status == "Accepted: Talk") |> 
-    mutate(
-        session_start_time = 
-            lubridate::hm(str_split_i(time, pattern=' - ', 1)) + 
-            lubridate::date("2025-04-22") + 
-            lubridate::days(day),
-
-    ) |> group_by(session) |> mutate(
-        talk_start_time = force_tz(session_start_time + lubridate::minutes(20)*(row_number()-1), 'Europe/London')
-    ) |> mutate(
-        time = strftime(talk_start_time, "%H:%M")
-    ) |> select(- chair) |> left_join(sessions |> select(session, chair), by='session') |> select(
-        firstname, lastname, title, session, session_no, date, room, time)
-
-gt_bolden = function(g){
-            lapply(g, function(x){gt::md(paste0("**", x, "**"))})
-        }
-
-posters <- submissions |> filter(is.na(session)) |> select(-session, -session_no, -room, -day, -chair, -date)
 ```
 
 # Program at a glance
 Unless otherwise stated, all rooms are in the [Old Engineering Building (Y3)](../venue). 
-
-
 
 ```{r}
 
