@@ -7,6 +7,8 @@ include-in-header: ../venue_header.html
 
 > Old School of Engineering, 142 Edgbaston Park Rd, Birmingham B15 2TT
 
+![](y3.png)
+
 GISRUK 2026 will be held on the University of Birmingham’s campus in Edgbaston. The campus is located approximately 10 minutes by train from Birmingham New Street. The station located on campus is called “University”. The conference will take place on the ground floor of Y3, the former Engineering building.
 
 The Conference Dinner will take place on Thursday evening in the city centre, at The Exchange building. There will be a less formal social event on campus on Wednesday. Details to follow. 
