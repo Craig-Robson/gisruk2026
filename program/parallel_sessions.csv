@@ -1,22 +1,16 @@
-﻿Parallel Session,Room,Chair
-Session 1,,
-1A: Deprivation & Cost-of-Living Geographies,,Jess Hepburn
-1B: Geospatial Healthcare Analysis,,Duncan Whyatt
-Session 2,,
-2A: Urban Green Space,,Naya Desai and Shukurat Bankole
-2B: Cycling Mobility,,Simon Blainey
-2C: Methodological Innovations in GIS,,Nick Bearman
-Session 3,,
-3A: Environmental Risk Management,,Daniel Donaldson
-3B: Street level imagery & visual impact,,Fluvio Lopane
-3C: Cultural Heritage & Landuse Change,,Guy Solomon
-Session 4,,
-4A: GIS for Public Services,,Vikki Houlden
-4B: Housing & Urban Planning,,Sarah Greenham
-4C: Urban Economics,,Clara Peiret-Garcia
-Session 5,,
-5A: Urban Transport Design,,Ross Bangs
-5B: Climatic Change,,Craig Robson
-Session 6,,
-6A: People & Population,,TBC
-AI and Data Processing,,Stef De Sabbata
+session_group,session,date,start_time
+1,1A: Deprivation & Cost-of-Living Geographies,"Wednesday 15th April","15:20 - 17:00"
+1,1B: Geospatial Healthcare Analysis,"Wednesday 15th April","15:20 - 17:00"
+2,2A: Urban Green Space,"Thursday 16th April","9:30 - 11:10"
+2,2B: Cycling Mobility,"Thursday 16th April","9:30 - 11:10"
+2,2C: Methodological Innovations in GIS,"Thursday 16th April","9:30 - 11:10"
+3,3A: Environmental Risk Management,"Thursday 16th April","13:40 - 15:00"
+3,3B: Street level imagery & visual impact,"Thursday 16th April","13:40 - 15:00"
+3,3C: Cultural Heritage & Landuse Change,"Thursday 16th April","13:40 - 15:00"
+4,4A: GIS for Public Services,"Thursday 16th April","15:40 - 16:40"
+4,4B: Housing & Urban Planning,"Thursday 16th April","15:40 - 16:40"
+4,4C: Urban Economics,"Thursday 16th April","15:40 - 16:40"
+5,5A: Urban Transport Design,"Friday 17th April","9:30 - 10:50"
+5,5B: Climatic Change,"Friday 17th April","9:30 - 10:50"
+6,6A: People & Population,"Friday 17th April","11:10 - 12:10"
+6,6B: AI and Data Processing,"Friday 17th April","11:10 - 12:10"
