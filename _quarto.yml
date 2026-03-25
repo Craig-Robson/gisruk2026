@@ -28,8 +28,8 @@ website:
           #  text: Submissions (closed)
           #- href: https://app.oxfordabstracts.com/stages/76668/review
           #  text: Reviews (closed) 
-          - href: https://app.oxfordabstracts.com/events/74052/committee/decisions/submissions
-            text: Decisions 
+          #- href: https://app.oxfordabstracts.com/events/74052/committee/decisions/submissions
+          #  text: Decisions 
           - href: proceedings/
             text: Proceedings
           - href: osgeo/
@@ -39,7 +39,7 @@ website:
           - href: https://uobevents.eventsair.com/gisruk-2026/gisruk-registration/
             text: Registration
           - href: venue/
-            text: Venues
+            text: Venue
           - href: https://www.edgbastonparkhotel.com/ 
             text: Accommodation 
       - text: "Programme"

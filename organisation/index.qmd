@@ -4,7 +4,7 @@ title: "Organisation"
 
 <!-- TODO: add links to each person's landing page -->
 
-GISRUK2026 is hosted by the [School of Engineering](https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-sciences/engineering) at the University of Birmingham. Our local organising committee is
+GISRUK2026 is hosted by the [School of Engineering](https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-sciences/engineering) at the University of Birmingham. Our local organising committee is:
 
 - Emma Ferranti  
 - Sarah Greenham
@@ -18,7 +18,7 @@ GISRUK2026 is hosted by the [School of Engineering](https://www.birmingham.ac.uk
 - Eugene McGee
 - Nasrul Ghazali
 - Ross Bangs 
-- Shomart Healy
+- Shomari Healy
 - Ruojing Zhang 
 - Nicholas Cork 
 - Tahmina Akter 
