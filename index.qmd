@@ -1,5 +1,5 @@
 ---
-title: "GISRUK 2026 : Birmingham University"
+title: "GISRUK 2026 : University of Birmingham"
 ---
 
 ::: {.callout-important icon=true}
@@ -13,15 +13,13 @@ title: "GISRUK 2026 : Birmingham University"
 
 ---------
 
-Welcome to the 34th Annual GIS Research UK Conference. The conference will be hosted at University of Birmingham 15th – 17th April 2026.
+Welcome to the 34th Annual GIS Research UK Conference. The conference will be hosted at the University of Birmingham, 15th – 17th April 2026, with an early career session on the 14th April.
 
-GISRUK attracts international researchers and practitioners from geographic information science and related fields to share and discuss the latest advances in spatial computing and analysis. The work presented at GISRUK covers fundamental research, methodological approaches, and applications of GIScience across many domains.
-
-We welcome papers covering all aspects of GIS, both methodological and applied. This year, we are particularly excited to invite submissions that investigate Process in Geographic Information Science, including innovations in causal inference, graphical modelling, or re-thinking the link between the patterns we see and what we represent on our computer screens.
+GISRUK hosts research from across geographic information science, from fundamental research to applications of GIScience across many domains. This year, the theme is People, Planet, and Progress: GIS for Real-World Impact, and we are particularly excited to invite submissions that describe practical applications of GIS that align to the UN Sustainable Development Goals, from both academia and practice. Beyond this special invitation, we accept abstracts in the following topics, and beyond.
 
 ## Accommodation
 
-[Edgbaston Park Hotel](https://www.edgbastonparkhotel.com/) is located on campus, but there are many more accommodation options in Birmingham City Centre. The conference will start at 9.30 on Thursday and Friday to allow time for transit between the city centre and campus. 
+[Edgbaston Park Hotel](https://www.edgbastonparkhotel.com/) is located on campus, but there are many more accommodation options in Birmingham City Centre. Getting to the University of Birmingham from the city centre is less than a 10-minute train journey from Birmingham New Street station to University (Birmingham) station. The conference will start at 9:30am on Thursday 16th and Friday 17th to allow time for transit between the city centre and campus.
 
 ## Key Dates
 
