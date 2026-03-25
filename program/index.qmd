@@ -20,7 +20,7 @@ Unless otherwise stated, all rooms are in the [Old Engineering Building (Y3)](..
 ```{r}
 
 glance_main = read_csv("./at_a_glance.csv")
-glance_ecr = read_csv("./ecr.csv") |> mutate(Date = "Tuesday (still to confirm)") |> select(-notes)
+glance_ecr = read_csv("./ecr.csv") |> mutate(Date = "Tuesday") |> select(-notes)
 colnames(glance_ecr) = colnames(glance_main)
 rbind(glance_ecr, glance_main) |> 
     select(-`...1`) |> group_by(Date) |> gt() |> 
