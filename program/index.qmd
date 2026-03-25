@@ -99,21 +99,21 @@ parallel_sessions |>
 # All Talks
 
 ```{r}
-talks |> arrange(desc(date), time, room) |> arrange(session_no) |> group_by(session_no, session) |> gt() |> gt::text_transform(
-        locations=cells_row_groups(),
-        fn=function(g){
-            lapply(g, function(x){
-                gt::md(paste0("**Session Group ", str_split_i(x, '-', 1), "**", '-', str_split_i(x, '-', 2)))
-                })
-        }
-    ) |> cols_label(
-        firstname = md(""),
-        lastname = md(""),
-        title=  md(""),
-        date=md("**Date**"),
-        room=md("**Room**"),
-        time=md("**Time**")
-    )
+all_talks <- read_csv("./all_talks.csv") |>
+  mutate(
+    session_group = paste("Session", session_group),
+    session_header = paste0(session_code, ": ", session_title),
+    author = paste(firstname, lastname)
+  )
+
+all_talks |>
+  select(session_group, session_header, author, title) |>
+  arrange(session_group, session_header) |>
+  gt(groupname_col = "session_header", rowname_col = "author") |>
+  tab_stubhead(label = md("**Author**")) |>
+  cols_label(
+    title = md("**Talk Title**")
+  )
 
 ```
 # Conference Dinner 
