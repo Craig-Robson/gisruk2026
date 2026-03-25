@@ -78,16 +78,22 @@ rbind(glance_ecr, glance_main) |>
 ```
 
 # All Sessions
-
 ```{r}
-sessions |> mutate(session_no = str_c("Group", session_no, sep=' ')) |> group_by(session_no, date, start_time) |> gt() |> gt::text_transform(
-        locations=cells_row_groups(),
-        fn=gt_bolden
-    ) |> cols_label(
-        session = md("**Session**"),
-        room = md("**Room**"),
-        chair = md("**Chair**")
-    )
+parallel_sessions <- read_csv("./parallel_sessions.csv") |>
+  mutate(session_group = paste("Group", session_group))
+
+parallel_sessions |>
+  group_by(session_group, date, start_time) |>
+  gt() |>
+  gt::text_transform(
+    locations = cells_row_groups(),
+    fn = gt_bolden
+  ) |>
+  cols_label(
+    session = md("**Session**")
+    # room = md("**Room**"),
+    # chair = md("**Chair**")
+  )
 ```
 
 # All Talks
