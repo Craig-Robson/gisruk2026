@@ -98,19 +98,20 @@ parallel_sessions |>
 # All Talks
 
 ```{r}
-all_talks <- read_csv("./all_talks.csv") |>
+talks_tbl <- read_csv("./all_talks.csv") |>
   mutate(
     session_group = paste("Session", session_group),
     session_header = paste0(session_code, ": ", session_title),
-    author = paste(firstname, lastname)
-  )
+    speaker = paste(firstname, lastname)
+  ) |>
+  arrange(session_group, session_code)
 
-all_talks |>
-  select(session_group, session_header, author, title) |>
-  arrange(session_group, session_header) |>
-  gt(groupname_col = "session_header", rowname_col = "author") |>
-  tab_stubhead(label = md("**Author**")) |>
+talks_tbl |>
+  select(session_group, session_header, speaker, title) |>
+  gt(groupname_col = "session_group") |>
   cols_label(
+    session_header = md("**Parallel Session**"),
+    speaker = md("**Speaker**"),
     title = md("**Talk Title**")
   )
 
