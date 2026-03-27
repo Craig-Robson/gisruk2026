@@ -1,11 +1,13 @@
 ---
 title: "The GISRUK Conference Proceedings"
-subtitle: "preparing your submission"
+subtitle: "About the proceedings"
 ---
 
-GISRUK uses [Zenodo](https://zenodo.org) to host the annual GISRUK conference proceedings. Zenodo provides an open access repository to host the proceedings and offers long term availability of these resources. Every GISRUK paper/abstract uploaded to Zenodo is given a unique DOI which allows for wider dissemination and citation of these works. 
+** GISRUK uses [Zenodo](https://zenodo.org) to host the annual GISRUK conference proceedings**. Zenodo provides an open access repository to host the proceedings and offers long term availability of these resources. Every GISRUK paper/abstract uploaded to Zenodo is given a unique DOI which allows for wider dissemination and citation of these works. 
 
 The proceedings for GISRUK 2026 are available on [Zenodo](https://zenodo.org/communities/gisruk2026/records?q=&l=list&p=1&s=100&sort=newest) - from here you can access the PDF versions of all of the accepted papers for GISRUK 2026. Each proceedings entry has its own DOI. When sharing the link to any of the proceedings entries please used the DOI. You can use the previous link to share the general link to the full set of proceedings. 
+
+## Preparing your abstract paper for the Zenodo proceedings
 
 There are a number of important steps to consider before your paper can be uploaded to Zenodo for the GISRUK 2026 proceedings. A simple checklist to prepare your document for the proceedings is provided below. Failure to follow the steps below may result in your paper not being included in the GISRUK 2026 proceedings. 
 
@@ -26,3 +28,15 @@ Once your abstract satisfies all of the above conditions, please email it to the
 ** Your final camera ready abstract for the proceedings must be submitted to the conference organisers as outlined in the communications via email after abstract acceptance.**
 
 We respectfully reserve the right to exclude your paper from the GISRUK Proceedings unless it meets these guidance notes to the satisfaction of the GISRUK Proceedings coordinator(s). It is __very important__ to ensure that the *final PDF provided to us is ready to publish __as is__*. Each item in the GISRUK Proceedings requires us to manually generate a Digital Object Identifier (DOI). Any changes after a DOI is created must be carried out by the Zenodo team based on our request.  
+
+## Recent GISRUK Proceedings on Zenodo 
+
+The previous five GISRUK conferences have their proceedings available on Zenodo. The links to each conference is provided below. 
+
+* 2025 Bristol Proceedings [GISRUK 2025 Proceedings](https://zenodo.org/communities/gisruk2025) 
+* 2024 Leeds Proceedings [GISRUK 2024 Proceedings](https://zenodo.org/communities/gisruk2024)
+* 2023 Glasgow Proceedings [GISRUK 2023 Proceedings](https://zenodo.org/communities/gisruk2023)
+* 2022 Liverpool Proceedings [GISRUK 2022 Proceedings](https://zenodo.org/communities/gisruk2022) 
+* 2021 Cardiff Proceedings [GISRUK 2021 Proceedings](https://zenodo.org/communities/gisruk_2021)
+
+
