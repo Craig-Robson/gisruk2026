@@ -25,11 +25,11 @@ We are proud to welcome the following keynote speakers to address GISRUK 2026:
 ::: {.grid}
 
 ::: {.g-col-3}
-![]()
+![](claudia.jpg)
 :::
 
 ::: {.g-col-9}
-**Claudia Offner, MapAction** 
+**Claudia Offner, MapAction** is a data scientist and GIS specialist with 5 years of research experience in public health and climate change. Currently a PhD researcher in Geography at the University of Cambridge, she develops models to forecast weather-driven healthcare demand in the UK and India. Seeking to apply her skills beyond academia, she joined MapAction in 2023 as a geospatial deployment volunteer. Since joining, she has provided analytical support to several humanitarian projects and responses, including the UNICEF Reach the Unreached initiative (Cameroon, 2024) and Hurricane Melissa (Jamaica, 2025). At the heart of her work is a simple goal: making complex data accessible, actionable, and impactful.
 
 :::
 
@@ -41,11 +41,11 @@ We are proud to welcome the following keynote speakers to address GISRUK 2026:
 ::: {.grid}
 
 ::: {.g-col-3}
-![]()
+![](Gemma.png)
 :::
 
 ::: {.g-col-9}
-**Gemma Davies, MapAction** 
+**Gemma Davies, MapAction**  is a geospatial deployment volunteer with MapAction, while employed as the GIS manager for Avian Ecology. Her career began with 20 years in academia.  Then in 2020 she joined the MapAction team as a volunteer.  Map Action is a volunteer-led NGO using geospatial information management to inform humanitarian response.  For three years she worked full time for Mapction as their head of geospatial services, before returning to her volunteer role and stepping into her current position managing GIS for Avian Ecology. As a MapAction member she has had the privilege of supporting responses to many emergencies, including floods, droughts, cyclones, earthquakes and conflict. She has also put her many years of teaching experience to use, leading capacity training activities across three continents. 
 :::
 
 :::
