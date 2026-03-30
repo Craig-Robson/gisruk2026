@@ -1,0 +1,24 @@
+---
+title: ECR Session
+---
+The Early Career session can be attended by delegates who expressed their interest in attending at registration. Please sign the register on arrival in G26, where a networking lunch will be served before the session begins.
+
+## Workshop session supported by Imago: Inequalites from Space
+
+Supported by Imago Data Service for Imagery (https://imago.ac.uk/) and QMRG RGS-IBG Quantitative Methods Research Group
+
+In this workshop, learn how complex Earth Observation (EO)-derived data can be transformed into accessible, analysis-ready resources that support evidence-based decision-making. Using data products from Imago Data Service for Imagery, we will provide a guided, practical learning experience built around reproducible geospatial workflows.
+
+This session emphasises the role of GIS in driving meaningful progress for communities and environments. Work directly with real-world datasets and explore how imagery-derived indicators can be integrated with socioeconomic measures to investigate spatial inequalities and inform policy-relevant insights. 
+
+You will load spatial boundaries, merge satellite-derived indicators with deprivation metrics, generate summary statistics, and create maps that reveal significant spatial patterns. Accessible statistical techniques—including correlation, regression, and hotspot analysis—will be introduced to support robust interpretation, alongside guided discussion on uncertainty, confounding factors, and the limits of causal inference.
+
+The workshop welcomes those new to EO as well as users experienced with GIS or programming environments such as R or Python. Emphasis is placed on transferable skills, reproducibility, and analytical confidence so you can adapt the workflow to your own research, teaching, or applied projects.
+
+Note: To take part in this workshop, you will need to bring your own laptop.
+
+## Presentations and Q&A: GIS and careers
+
+We have invited select individuals who use GIS in their careers to give a presentation on their education and professional background. There will be plenty of opportunity to ask the presenters anything about their careers!
+
+
