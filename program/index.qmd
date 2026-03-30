@@ -116,6 +116,26 @@ talks_tbl |>
   )
 
 ```
+# All Posters
+
+```{r}
+posters_tbl <- read_csv("./posters.csv") |>
+  mutate(
+    poster_session = paste("Poster Session", Session),
+    speaker = paste(firstname, lastname)
+  ) |>
+  arrange(Session, lastname, firstname)
+
+posters_tbl |>
+  select(Session, speaker, Title) |>
+  gt(groupname_col = "Session") |>
+  cols_label(
+    speaker = md("**Speaker**"),
+    Title = md("**Poster Title**")
+  )
+
+```
+
 # Conference Dinner 
 The Conference will be held at [The Exchange](https://www.birmingham.ac.uk/the-exchange/), a University of Birmingham building located in central Birmingham. The meal has been designed to celebrate the [Helios Exhibition](https://www.birmingham.ac.uk/the-exchange/events/helios) that opened in March 2026.
 
