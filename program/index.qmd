@@ -121,7 +121,11 @@ talks_tbl |>
 ```{r}
 posters_tbl <- read_csv("./posters.csv") |>
   mutate(
-    poster_session = paste("Poster Session", Session),
+    Session = case_when(
+      Session == "AM" ~ "AM Session",
+      Session == "PM" ~ "PM Session",
+      TRUE ~ Session
+    ),
     speaker = paste(firstname, lastname)
   ) |>
   arrange(Session, lastname, firstname)
@@ -132,6 +136,10 @@ posters_tbl |>
   cols_label(
     speaker = md("**Speaker**"),
     Title = md("**Poster Title**")
+  ) |>
+  tab_style(
+    style = cell_text(weight = "bold"),
+    locations = cells_row_groups()
   )
 
 ```
