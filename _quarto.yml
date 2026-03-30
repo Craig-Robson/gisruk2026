@@ -40,7 +40,7 @@ website:
             text: Registration
           - href: venue/
             text: Venue
-          - href: https://www.edgbastonparkhotel.com/ 
+          - href: accommodation/ 
             text: Accommodation 
       - text: "Programme"
         menu:
