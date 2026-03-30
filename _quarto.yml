@@ -48,8 +48,8 @@ website:
             text: Conference Programme
           - href: keynotes/
             text: Keynote Speakers
-          - href: mentorship/
-            text: Mentorship
+         # - href: mentorship/
+         #   text: Mentorship
       - href: organisation/
         text: Organisers
     tools:
