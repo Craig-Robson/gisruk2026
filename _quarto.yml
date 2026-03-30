@@ -48,6 +48,8 @@ website:
             text: Conference Programme
           - href: keynotes/
             text: Keynote Speakers
+          - href: ecr/
+            text: Early Career Session
          # - href: mentorship/
          #   text: Mentorship
       - href: organisation/
