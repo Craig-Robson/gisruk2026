@@ -36,8 +36,8 @@ website:
             text: GISRUK & OSGeo:UK GoFundGeo Award
       - text: "Attending"
         menu:
-          - href: https://uobevents.eventsair.com/gisruk-2026/gisruk-registration/
-            text: Registration
+          # - href: https://uobevents.eventsair.com/gisruk-2026/gisruk-registration/
+          #  text: Registration
           - href: venue/
             text: Venue
           - href: accommodation/ 
