@@ -113,6 +113,10 @@ talks_tbl |>
     session_header = md("**Parallel Session**"),
     speaker = md("**Speaker**"),
     title = md("**Talk Title**")
+  ) |>
+  tab_style(
+    style = cell_text(weight = "bold"),
+    locations = cells_row_groups()
   )
 
 ```
