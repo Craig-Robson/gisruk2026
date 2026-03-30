@@ -6,7 +6,7 @@ execute:
   warning: false
   message: false
 ---
-Event information posted here is subject to change depending on the requirements of the conference. If changes do occur, we will email all attendees, and disruption to talk times will be minimized. 
+Event information posted here is subject to change depending on the requirements of the conference. If changes do occur, we will email all attendees, and disruption to talk times will be minimised. 
 ```{r}
 library(tidyverse)
 library(knitr)
@@ -56,7 +56,7 @@ posters <- submissions |> filter(is.na(session)) |> select(-session, -session_no
 
 ```
 
-# Program at a glance
+# Programme at a glance
 Unless otherwise stated, all rooms are in the [Old Engineering Building (Y3)](../venue). 
 
 ```{r}
