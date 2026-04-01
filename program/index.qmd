@@ -102,18 +102,27 @@ talks_tbl <- read_csv("./all_talks.csv") |>
   mutate(
     session_group = paste("Session", session_group),
     session_header = paste0(session_code, ": ", session_title),
-    speaker = paste(firstname, lastname)
+    speaker = paste(firstname, lastname),
+
+    # Create clickable DOI link
+    paper = ifelse(
+      is.na(DOI) | DOI == "",
+      "",
+      paste0("<a href='", DOI, "' target='_blank'>Paper on Zenodo</a>")
+    )
   ) |>
   arrange(session_group, session_code)
 
 talks_tbl |>
-  select(session_group, session_header, speaker, title) |>
+  select(session_group, session_header, speaker, title, paper) |>
   gt(groupname_col = "session_group") |>
   cols_label(
     session_header = md("**Parallel Session**"),
     speaker = md("**Speaker**"),
-    title = md("**Talk Title**")
+    title = md("**Talk Title**"),
+    paper = md("**Paper**")
   ) |>
+  fmt_markdown(columns = paper) |>
   tab_style(
     style = cell_text(weight = "bold"),
     locations = cells_row_groups()
