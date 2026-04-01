@@ -96,7 +96,7 @@ parallel_sessions |>
 ```
 
 # All Talks
-GISRUK 2026 Proceedings on Zenodo - you can find all of the proceedings for the talks and posters available on the GISRUK 2026 community on Zenodo [link](https://zenodo.org/communities/gisruk2026/records?q=&l=list&p=1&s=100&sort=newest)
+GISRUK 2026 Proceedings on Zenodo - you can find all of the proceedings for the talks and posters available on the GISRUK 2026 community on Zenodo [link](https://zenodo.org/communities/gisruk2026/records?q=&l=list&p=1&s=100&sort=newest). All papers will be added to Zenodo before the start of the conference. Please check the Zenodo link regularly for updates.
 ```{r}
   talks_tbl <- read_csv("./all_talks.csv") |>
   mutate(
@@ -120,7 +120,7 @@ talks_tbl |>
   )
 ```
 # All Posters
-
+GISRUK 2026 Proceedings on Zenodo - you can find all of the proceedings for the talks and posters available on the GISRUK 2026 community on Zenodo [link](https://zenodo.org/communities/gisruk2026/records?q=&l=list&p=1&s=100&sort=newest). All papers will be added to Zenodo before the start of the conference. Please check the Zenodo link regularly for updates. 
 ```{r}
 posters_tbl <- read_csv("./posters.csv") |>
   mutate(
