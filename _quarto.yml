@@ -51,7 +51,7 @@ website:
          # - href: mentorship/
          #   text: Mentorship
        - text: "Awards"
-         menu:
+        menu:
           - href: osgeo/
             text: GISRUK & OSGeo:UK GoFundGeo Award
       - href: sponsors/
