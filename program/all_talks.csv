@@ -4,11 +4,11 @@ session_group,session_code,session_title,firstname,lastname,title,DOI
 1,1A,Deprivation & Cost-of-Living Geographies,Huanfa,Chen,How far are we from keeping everyone warm in cost-of-living crisis? Measuring geographic accessibility to UK warm spaces,https://doi.org/10.5281/zenodo.19367485
 1,1A,Deprivation & Cost-of-Living Geographies,Amir,Baniasadi,Unequal Heat Exposure across Wales: A Spatio-Temporal Analysis of Socioeconomic Deprivation,https://doi.org/10.5281/zenodo.19367556
 1,1A,Deprivation & Cost-of-Living Geographies,Johara,Meyer,Towards a Dynamic View of UK Deprivation: Harmonising the IMD Using Claimant Count Data,https://doi.org/10.5281/zenodo.19367628
-1,1B,Climatic Change,Pengyuan,Liu,Dealing with Spatial Heterogeneity: A Graph Neural Network-based Domain Adaptation Framework in Urban Heat Prediction,
-1,1B,Climatic Change,Dongyi,Ma,Measuring Urban Heat Island Intensity in London During the Warmest June on Record,
-1,1B,Climatic Change,Chris,Brunsdon,The Science of the Seasons - Spatial Analysis of Phenological Data,
-1,1B,Climatic Change,Yanzhi,Lu,Neighbourhood-scale Urban Heat Island Modelling Using ADMS-Urban Climate Model,
-1,1B,Climatic Change,Giandomenico,Vurro,How Temperature Datasets Shape Spatial Heat Vulnerability: Observations versus Urban Climate Modelling,
+1,1B,Climatic Change,Pengyuan,Liu,Dealing with Spatial Heterogeneity: A Graph Neural Network-based Domain Adaptation Framework in Urban Heat Prediction,https://doi.org/10.5281/zenodo.19389547
+1,1B,Climatic Change,Dongyi,Ma,Measuring Urban Heat Island Intensity in London During the Warmest June on Record,https://doi.org/10.5281/zenodo.19389594
+1,1B,Climatic Change,Chris,Brunsdon,The Science of the Seasons - Spatial Analysis of Phenological Data,https://doi.org/10.5281/zenodo.19389640
+1,1B,Climatic Change,Yanzhi,Lu,Neighbourhood-scale Urban Heat Island Modelling Using ADMS-Urban Climate Model,https://doi.org/10.5281/zenodo.19389672
+1,1B,Climatic Change,Giandomenico,Vurro,How Temperature Datasets Shape Spatial Heat Vulnerability: Observations versus Urban Climate Modelling,https://doi.org/10.5281/zenodo.19389711
 2,2A,Urban Green Space,Fran,Pontin,Towards More Equitable Parks: A Reproducible Catchment Modelling Approach,https://doi.org/10.5281/zenodo.19387206
 2,2A,Urban Green Space,Vikki,Houlden,Unequal Paths to Nature: Barriers to Greenspace Access in West Yorkshire,https://doi.org/10.5281/zenodo.19387243
 2,2A,Urban Green Space,Youlong,Gu,Assessing Park Satisfaction from Google Maps Reviews: Novel Evidence from Multimodal Text–Image Analysis,https://doi.org/10.5281/zenodo.19387281
