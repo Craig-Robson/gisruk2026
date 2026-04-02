@@ -52,6 +52,8 @@ website:
             text: Early Career Session
          # - href: mentorship/
          #   text: Mentorship
+      - href: sponsors/
+        text: Sponsors
       - href: organisation/
         text: Organisers
     tools:
