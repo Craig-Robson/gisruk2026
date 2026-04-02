@@ -5,7 +5,7 @@ The Early Career session can be attended by delegates who expressed their intere
 
 ## Workshop session supported by Imago: Inequalites from Space
 
-*Supported by Imago Data Service for Imagery (https://imago.ac.uk/) and QMRG RGS-IBG Quantitative Methods Research Group*
+*Supported by [Imago Data Service for Imagery](https://imago.ac.uk/) and QMRG RGS-IBG Quantitative Methods Research Group*
 
 In this workshop, learn how **complex Earth Observation (EO)-derived data can be transformed into accessible, analysis-ready resources** that support evidence-based decision-making. Using data products from Imago Data Service for Imagery, we will provide a guided, practical learning experience built around reproducible geospatial workflows.
 
@@ -22,7 +22,7 @@ You will load spatial boundaries, merge satellite-derived indicators with depriv
 We have invited select individuals who use GIS in their careers to give a presentation on their education and professional background. There will be plenty of opportunity to ask the presenters anything about their careers!
 
 **Presenters:**
-Adam Nudds – Principal GIS Analyst, Transport for West Midlands
-Dr Craig Robson – Lecturer in Data-centric Civil (and Geospatial) Engineering and national GISRUK Chair, Newcastle University
-Dr Elisabetta Pietrostefani – Lecturer in Geographic Data Science, University of Liverpool
-Dr Stefano Cavazzi – Principal Innovation & Research Scientist, Ordnance Survey
+- Adam Nudds – Principal GIS Analyst, Transport for West Midlands
+- Dr Craig Robson – Lecturer in Data-centric Civil (and Geospatial) Engineering and national GISRUK Chair, Newcastle University
+- Dr Elisabetta Pietrostefani – Lecturer in Geographic Data Science, University of Liverpool
+- Dr Stefano Cavazzi – Principal Innovation & Research Scientist, Ordnance Survey
