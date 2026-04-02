@@ -14,11 +14,11 @@ session_group,session_code,session_title,firstname,lastname,title,DOI
 2,2A,Urban Green Space,Youlong,Gu,Assessing Park Satisfaction from Google Maps Reviews: Novel Evidence from Multimodal Text–Image Analysis,https://doi.org/10.5281/zenodo.19387281
 2,2A,Urban Green Space,Andrew,Schendl,Planning for More-than-Human Waterfronts: GIS-Based Habitat Suitability Modelling of Urban Kittiwake Nesting on the River Tyne,https://doi.org/10.5281/zenodo.19387323
 2,2A,Urban Green Space,Luning,Li,Building Scalable Nature-Use Indicators for Thriving Cities: Modelling Demand for Park Quality using Mobile Phone App Data,
-2,2B,Cycling & Mobility,Michael,Szell,Quality assessment of a country-wide bicycle node network with loop census analysis,
-2,2B,Cycling & Mobility,Yanjie,Lu,Transport Equity in Dockless Bike-Sharing: Behavioral Clustering and Socioeconomic Patterns in Shenzhen,
-2,2B,Cycling & Mobility,Manuel,Knepper,BikeNetKit: Developing an open-source bicycle network software suite for urban planners,
-2,2B,Cycling & Mobility,Chenrui,Xiao,Wheely Easy: Creating a Wheelability Network for Bradford,
-2,2B,Cycling & Mobility,Chris,Larkin,Implementing low traffic neighbourhoods to the expansion of cycle networks,
+2,2B,Cycling & Mobility,Michael,Szell,Quality assessment of a country-wide bicycle node network with loop census analysis,https://doi.org/10.5281/zenodo.19390585
+2,2B,Cycling & Mobility,Yanjie,Lu,Transport Equity in Dockless Bike-Sharing: Behavioral Clustering and Socioeconomic Patterns in Shenzhen,https://doi.org/10.5281/zenodo.19390621
+2,2B,Cycling & Mobility,Manuel,Knepper,BikeNetKit: Developing an open-source bicycle network software suite for urban planners,https://doi.org/10.5281/zenodo.19390653
+2,2B,Cycling & Mobility,Chenrui,Xiao,Wheely Easy: Creating a Wheelability Network for Bradford,https://doi.org/10.5281/zenodo.19390693
+2,2B,Cycling & Mobility,Chris,Larkin,Implementing low traffic neighbourhoods to the expansion of cycle networks,https://doi.org/10.5281/zenodo.19390770
 2,2C,Methodological Innovations in GIS,René,Westerholt,A novel cluster plot for the visual characterisation of irregular spatial hotspots and coldspots,
 2,2C,Methodological Innovations in GIS,Sheng,Zhou,OR4NN: Preprocess for Scalable K Nearest Neighbour Join,
 2,2C,Methodological Innovations in GIS,Martin,Fleischmann,gwlearn - An Agnostic Framework for Geographically Weighted Learning,
