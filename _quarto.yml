@@ -50,8 +50,8 @@ website:
             text: Early Career Session
          # - href: mentorship/
          #   text: Mentorship
-       - text: "Awards"
-         menu:
+      - text: "Awards"
+        menu:
           - href: osgeo/
             text: GISRUK & OSGeo:UK GoFundGeo Award
       - href: sponsors/
