@@ -32,8 +32,6 @@ website:
           #  text: Decisions 
           - href: proceedings/
             text: Proceedings
-          - href: osgeo/
-            text: GISRUK & OSGeo:UK GoFundGeo Award
       - text: "Attending"
         menu:
           # - href: https://uobevents.eventsair.com/gisruk-2026/gisruk-registration/
@@ -52,6 +50,10 @@ website:
             text: Early Career Session
          # - href: mentorship/
          #   text: Mentorship
+       - text: "Awards"
+        menu:
+          - href: osgeo/
+            text: GISRUK & OSGeo:UK GoFundGeo Award
       - href: sponsors/
         text: Sponsors
       - href: organisation/
