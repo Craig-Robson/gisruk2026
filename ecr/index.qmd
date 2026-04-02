@@ -5,7 +5,7 @@ The Early Career session can be attended by delegates who expressed their intere
 
 ## Workshop session supported by Imago: Inequalites from Space
 
-*Supported by Imago Data Service for Imagery (https://imago.ac.uk/) and QMRG RGS-IBG Quantitative Methods Research Group*
+*Supported by [Imago Data Service for Imagery](https://imago.ac.uk/) and QMRG RGS-IBG Quantitative Methods Research Group*
 
 In this workshop, learn how **complex Earth Observation (EO)-derived data can be transformed into accessible, analysis-ready resources** that support evidence-based decision-making. Using data products from Imago Data Service for Imagery, we will provide a guided, practical learning experience built around reproducible geospatial workflows.
 
