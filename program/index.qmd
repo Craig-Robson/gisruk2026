@@ -98,22 +98,29 @@ parallel_sessions |>
 # All Talks
 GISRUK 2026 Proceedings on Zenodo - you can find all of the proceedings for the talks and posters available on the GISRUK 2026 community on Zenodo [link](https://zenodo.org/communities/gisruk2026/records?q=&l=list&p=1&s=100&sort=newest). All papers will be added to Zenodo before the start of the conference. Please check the Zenodo link regularly for updates.
 ```{r}
-  talks_tbl <- read_csv("./all_talks.csv") |>
+talks_tbl <- read_csv("./all_talks.csv") |>
   mutate(
-    session_group = paste("Session", session_group),
+    session_group  = paste("Session", session_group),
     session_header = paste0(session_code, ": ", session_title),
-    speaker = paste(firstname, lastname)
+    speaker        = paste(firstname, lastname),
+
+    # Create markdown link: [Title](DOI)
+    title_with_link = case_when(
+      is.na(DOI) | DOI == "" ~ title,                     # no DOI → plain title
+      TRUE ~ paste0("[", title, "](", DOI, ")")           # DOI present → hyperlink
+    )
   ) |>
   arrange(session_group, session_code)
 
 talks_tbl |>
-  select(session_group, session_header, speaker, title) |>
+  select(session_group, session_header, speaker, title_with_link) |>
   gt(groupname_col = "session_group") |>
   cols_label(
-    session_header = md("**Parallel Session**"),
-    speaker = md("**Speaker**"),
-    title = md("**Talk Title**")
+    session_header   = md("**Parallel Session**"),
+    speaker          = md("**Speaker**"),
+    title_with_link  = md("**Talk Title**")
   ) |>
+  fmt_markdown(columns = title_with_link) |>
   tab_style(
     style = cell_text(weight = "bold"),
     locations = cells_row_groups()
