@@ -89,8 +89,8 @@ parallel_sessions |>
     fn = gt_bolden
   ) |>
   cols_label(
-    session = md("**Session**")
-    room = md("**room**"),
+    session = md("**Session**"),
+    room = md("**room**")
     # chair = md("**Chair**")
   )
 ```
