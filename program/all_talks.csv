@@ -56,6 +56,6 @@ session_group,session_code,session_title,firstname,lastname,title,DOI
 6,6A,People & Population,Yatao,Zhang,Quantifying and explaining uncertainty in official small-area population estimates,
 6,6A,People & Population,Scott,Orford,Creating Symbology: Bringing digital maps to life with young people,
 6,6A,People & Population,Owen,Goodwin,Capturing Non-linear Neighbourhood Structure: An Autoencoder Approach to Census-based Dimensionality Reduction,
-6,6B,AI & Data Processing,Yang,Wang,Understanding Airbnb Listing Performance through Spatial Semantics and Urban Amenities: Evidence from LLMs and XAI,
-6,6B,AI & Data Processing,Nurwatik,Nurwatik,Incorporating Topology on GPT-Based Geoparsing Model for Finer Geocoding Locations from Social Media Texts,
-6,6B,AI & Data Processing,Yanbo,Pang,Unlocking Unlabelled GPS Data for Transport and Urban MobilityAnalysis via Hybrid Transfer and Iterative Profiling,
+6,6B,AI & Data Processing,Yang,Wang,Understanding Airbnb Listing Performance through Spatial Semantics and Urban Amenities: Evidence from LLMs and XAI,https://doi.org/10.5281/zenodo.19404110
+6,6B,AI & Data Processing,Nurwatik,Nurwatik,Incorporating Topology on GPT-Based Geoparsing Model for Finer Geocoding Locations from Social Media Texts,https://doi.org/10.5281/zenodo.19404217
+6,6B,AI & Data Processing,Yanbo,Pang,Unlocking Unlabelled GPS Data for Transport and Urban MobilityAnalysis via Hybrid Transfer and Iterative Profiling,https://doi.org/10.5281/zenodo.19404350
