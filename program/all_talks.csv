@@ -45,10 +45,10 @@ session_group,session_code,session_title,firstname,lastname,title,DOI
 4,4C,Urban Economics,Sayan,Roy,Do environmental amenities add a premium to property prices?Evidence from Bengaluru,
 4,4C,Urban Economics,Zihan,Yin,Open Retail Centre Boundaries for the UK and Their Utility for Functional Analysis and Policy,
 4,4C,Urban Economics,Ivann,Schlosser,"What, where, how much ? Spatial and sectoral downscaling of global economic activity",
-5,5A,Urban Transport Design,Fulvio,Lopane,Modelling equitable public transport infrastructure: pre-implementation accessibility assessment of Bogotá's metro system using synthetic GTFS,
+5,5A,Urban Transport Design,Fulvio,Lopane,Modelling equitable public transport infrastructure: pre-implementation accessibility assessment of Bogotá's metro system using synthetic GTFS,https://doi.org/10.5281/zenodo.19420782
 5,5A,Urban Transport Design,Clara,Peiret-Garcia,Beyond the Commute: Temporal Ridership Patterns and Socioeconomic Stratification in London's Underground Stations,
-5,5A,Urban Transport Design,Zahra,Mahabadi,Short Distances Enable Walking Even for Car-Owning Families with Children: Implications for the X-Minute City,
-5,5A,Urban Transport Design,Zihao,Chen,Measuring the dynamics of service accessibility by bus in England: a comparison of scheduled and observed travel time variability,
+5,5A,Urban Transport Design,Zahra,Mahabadi,Short Distances Enable Walking Even for Car-Owning Families with Children: Implications for the X-Minute City,https://doi.org/10.5281/zenodo.19420809
+5,5A,Urban Transport Design,Zihao,Chen,Measuring the dynamics of service accessibility by bus in England: a comparison of scheduled and observed travel time variability,https://doi.org/10.5281/zenodo.19420832
 5,5B,Geospatial Healthcare Analysis,Alice,Varley,Developing measures of mental healthcare accessibility: a case study of Liverpool,https://doi.org/10.5281/zenodo.19386205
 5,5B,Geospatial Healthcare Analysis,Aubrey,Steingraber,Gridded mapping of unvaccinated children in conflict settings: a tailored approach,https://doi.org/10.5281/zenodo.19386224
 5,5B,Geospatial Healthcare Analysis,Felipe,Portales,Community Detection for Primary Care Service Areas in Chile: Balancing Granularity and Flow Localisation,https://doi.org/10.5281/zenodo.19386272
