@@ -36,15 +36,15 @@ session_group,session_code,session_title,firstname,lastname,title,DOI
 3,3C,Cultural Heritage & Land Use Change,Tong,He,Solar Power at Scale: Quantifying Land Use Change Across China from 2010 to 2024,
 3,3C,Cultural Heritage & Land Use Change,Petrus,Gerrits,Mapping Heritage in South Asia: A Multi-Source Geospatial Framework for Spatially Explicit Documentation of Archaeological Sites using Machine Learning and Open-Source Data Platform (Arches),
 3,3C,Cultural Heritage & Land Use Change,Charlotte,Evans,GIS in Interdisciplinary Research: Colonial Irrigation Policy and Landscape Change In 19thAnd 20th C. India,
-4,4A,GIS for Public Services,Jessica,Hepburn,Using geospatial intelligence to aid regional decision making and information dissemination in a Combined Authority,
-4,4A,GIS for Public Services,Yuxin,Zhao,Optimising Fire Station Layouts to Improve Fire Service Efficiency: A Spatial Machine Learning and Genetic Algorithm Approach,
-4,4A,GIS for Public Services,Shitian,Zhang,Enhancing Emergency Response Efficiency: A Geospatial Machine Learning Approach to Predicting False Fire Alarms in the West Midlands,
-4,4B,Housing & Urban Planning,Susannah,Cramer-Greenbaum,Housing associations as the new Great Estates: Uncovering corporate landownership in London,
-4,4B,Housing & Urban Planning,Richard,Kingston,Unsuitable by Design? Geospatial Evaluation of England’s New Town Proposals,
-4,4B,Housing & Urban Planning,Beatrice,Taylor,Not in My Backyard: Topics of Objection in Housing Development,
-4,4C,Urban Economics,Sayan,Roy,Do environmental amenities add a premium to property prices?Evidence from Bengaluru,
-4,4C,Urban Economics,Zihan,Yin,Open Retail Centre Boundaries for the UK and Their Utility for Functional Analysis and Policy,
-4,4C,Urban Economics,Ivann,Schlosser,"What, where, how much ? Spatial and sectoral downscaling of global economic activity",
+4,4A,GIS for Public Services,Jessica,Hepburn,Using geospatial intelligence to aid regional decision making and information dissemination in a Combined Authority,https://doi.org/10.5281/zenodo.19420897
+4,4A,GIS for Public Services,Yuxin,Zhao,Optimising Fire Station Layouts to Improve Fire Service Efficiency: A Spatial Machine Learning and Genetic Algorithm Approach,https://doi.org/10.5281/zenodo.19420910
+4,4A,GIS for Public Services,Shitian,Zhang,Enhancing Emergency Response Efficiency: A Geospatial Machine Learning Approach to Predicting False Fire Alarms in the West Midlands,https://doi.org/10.5281/zenodo.19420926
+4,4B,Housing & Urban Planning,Susannah,Cramer-Greenbaum,Housing associations as the new Great Estates: Uncovering corporate landownership in London,https://doi.org/10.5281/zenodo.19420959
+4,4B,Housing & Urban Planning,Richard,Kingston,Unsuitable by Design? Geospatial Evaluation of England’s New Town Proposals,https://doi.org/10.5281/zenodo.19420976
+4,4B,Housing & Urban Planning,Beatrice,Taylor,Not in My Backyard: Topics of Objection in Housing Development,https://doi.org/10.5281/zenodo.19420988
+4,4C,Urban Economics,Sayan,Roy,Do environmental amenities add a premium to property prices?Evidence from Bengaluru,https://doi.org/10.5281/zenodo.19421011
+4,4C,Urban Economics,Zihan,Yin,Open Retail Centre Boundaries for the UK and Their Utility for Functional Analysis and Policy,https://doi.org/10.5281/zenodo.19421088
+4,4C,Urban Economics,Ivann,Schlosser,"What, where, how much ? Spatial and sectoral downscaling of global economic activity",https://doi.org/10.5281/zenodo.19421141
 5,5A,Urban Transport Design,Fulvio,Lopane,Modelling equitable public transport infrastructure: pre-implementation accessibility assessment of Bogotá's metro system using synthetic GTFS,https://doi.org/10.5281/zenodo.19420782
 5,5A,Urban Transport Design,Clara,Peiret-Garcia,Beyond the Commute: Temporal Ridership Patterns and Socioeconomic Stratification in London's Underground Stations,
 5,5A,Urban Transport Design,Zahra,Mahabadi,Short Distances Enable Walking Even for Car-Owning Families with Children: Implications for the X-Minute City,https://doi.org/10.5281/zenodo.19420809
