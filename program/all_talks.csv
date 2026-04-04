@@ -53,9 +53,9 @@ session_group,session_code,session_title,firstname,lastname,title,DOI
 5,5B,Geospatial Healthcare Analysis,Aubrey,Steingraber,Gridded mapping of unvaccinated children in conflict settings: a tailored approach,https://doi.org/10.5281/zenodo.19386224
 5,5B,Geospatial Healthcare Analysis,Felipe,Portales,Community Detection for Primary Care Service Areas in Chile: Balancing Granularity and Flow Localisation,https://doi.org/10.5281/zenodo.19386272
 5,5B,Geospatial Healthcare Analysis,Changwha,Oh,Geographic context and heart decompensation risks: Spatial pattern of socio-environmental determinants on heart valve disease in Northeast London,https://doi.org/10.5281/zenodo.19386322
-6,6A,People & Population,Yatao,Zhang,Quantifying and explaining uncertainty in official small-area population estimates,
-6,6A,People & Population,Scott,Orford,Creating Symbology: Bringing digital maps to life with young people,
-6,6A,People & Population,Owen,Goodwin,Capturing Non-linear Neighbourhood Structure: An Autoencoder Approach to Census-based Dimensionality Reduction,
+6,6A,People & Population,Yatao,Zhang,Quantifying and explaining uncertainty in official small-area population estimates,https://doi.org/10.5281/zenodo.19420633
+6,6A,People & Population,Scott,Orford,Creating Symbology: Bringing digital maps to life with young people,https://doi.org/10.5281/zenodo.19420655
+6,6A,People & Population,Owen,Goodwin,Capturing Non-linear Neighbourhood Structure: An Autoencoder Approach to Census-based Dimensionality Reduction,https://doi.org/10.5281/zenodo.19420684
 6,6B,AI & Data Processing,Yang,Wang,Understanding Airbnb Listing Performance through Spatial Semantics and Urban Amenities: Evidence from LLMs and XAI,https://doi.org/10.5281/zenodo.19404110
 6,6B,AI & Data Processing,Nurwatik,Nurwatik,Incorporating Topology on GPT-Based Geoparsing Model for Finer Geocoding Locations from Social Media Texts,https://doi.org/10.5281/zenodo.19404217
 6,6B,AI & Data Processing,Yanbo,Pang,Unlocking Unlabelled GPS Data for Transport and Urban MobilityAnalysis via Hybrid Transfer and Iterative Profiling,https://doi.org/10.5281/zenodo.19404350
