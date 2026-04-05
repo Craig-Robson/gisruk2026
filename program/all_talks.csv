@@ -28,11 +28,11 @@ session_group,session_code,session_title,firstname,lastname,title,DOI
 3,3A,Environmental Risk Management,Jacob,Macdonald,Coastal Proximity and the ‘Shared Risk Identity’: Mapping Willingness to Pay for Flood Protection in Mozambique,https://doi.org/10.5281/zenodo.19421933
 3,3A,Environmental Risk Management,Kirsty,Watkinson,Fuzzy random forests: A new approach to groundwater contaminant modelling in Uganda,https://doi.org/10.5281/zenodo.19421975
 3,3A,Environmental Risk Management,Naya,Desai,Unsupervised Detection of Urban Drought: a Comparative Analysis in a Data-Limited Setting,
-3,3B,Street-Level Imagery & Visual Impact,Haixiao,Liu,Retail Façade Change Detection via Street-level Imagery,
+3,3B,Street-Level Imagery & Visual Impact,Haixiao,Liu,Retail Façade Change Detection via Street-level Imagery,https://doi.org/10.5281/zenodo.19430402
 3,3B,Street-Level Imagery & Visual Impact,Mairead,de Roiste,"Seeing is Believing: Using Visual Impact and Human Movement Data to Guide Wetland Restoration in the Ruamāhanga Basin, Aotearoa New Zealand",
-3,3B,Street-Level Imagery & Visual Impact,Ilya,Ilyankou,"StreetVibes: An Open, Modular Pipeline for Reproducible Street-Level Urban Perception Analysis",
-3,3B,Street-Level Imagery & Visual Impact,Yujun,Hou,Seeing Accessibility: A Vision–Language Approach to Disability-Related Spatial Inequality from Street View Imagery,https://doi.org/10.5281/zenodo.19430249
-3,3C,Cultural Heritage & Land Use Change,Michael,Xiao,"Reprinting and Linking the Past: Creating a Nationwide Georeferenced Directory of Fixed-Line Telephone Subscribers, 1881-1984",
+3,3B,Street-Level Imagery & Visual Impact,Ilya,Ilyankou,"StreetVibes: An Open, Modular Pipeline for Reproducible Street-Level Urban Perception Analysis",https://doi.org/10.5281/zenodo.19430424
+3,3B,Street-Level Imagery & Visual Impact,Yujun,Hou,Seeing Accessibility: A Vision–Language Approach to Disability-Related Spatial Inequality from Street View Imagery,https://doi.org/10.5281/zenodo.19430442
+3,3C,Cultural Heritage & Land Use Change,Michael,Xiao,"Reprinting and Linking the Past: Creating a Nationwide Georeferenced Directory of Fixed-Line Telephone Subscribers, 1881-1984",https://doi.org/10.5281/zenodo.19430249
 3,3C,Cultural Heritage & Land Use Change,Tong,He,Solar Power at Scale: Quantifying Land Use Change Across China from 2010 to 2024,https://doi.org/10.5281/zenodo.19430267
 3,3C,Cultural Heritage & Land Use Change,Petrus,Gerrits,Mapping Heritage in South Asia: A Multi-Source Geospatial Framework for Spatially Explicit Documentation of Archaeological Sites using Machine Learning and Open-Source Data Platform (Arches),https://doi.org/10.5281/zenodo.19430281
 3,3C,Cultural Heritage & Land Use Change,Charlotte,Evans,GIS in Interdisciplinary Research: Colonial Irrigation Policy and Landscape Change In 19thAnd 20th C. India,https://doi.org/10.5281/zenodo.19430349
