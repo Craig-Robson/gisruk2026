@@ -17,6 +17,10 @@ Directions to campus can be found [here](https://www.birmingham.ac.uk/contact/di
 Campus map can be found [here](https://www.birmingham.ac.uk/visit/maps-and-directions).
 Edgbaston Park hotel details can be found [here](https://www.edgbastonparkhotel.com/).
 
+## Room Map
+
+![](y3_map.png)
+
 <!-- TODO: populate once booked 
 
 ## ![](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png) Dinner Venue: The Faversham
