@@ -155,7 +155,7 @@ posters_tbl |>
 ```
 # Room Map
 
-![](y3_map.png)
+![](y3_map.jpg)
 
 # Conference Dinner 
 The Conference will be held at [The Exchange](https://www.birmingham.ac.uk/the-exchange/), a University of Birmingham building located in central Birmingham. The meal has been designed to celebrate the [Helios Exhibition](https://www.birmingham.ac.uk/the-exchange/events/helios) that opened in March 2026.
