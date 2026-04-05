@@ -19,7 +19,7 @@ Edgbaston Park hotel details can be found [here](https://www.edgbastonparkhotel.
 
 ## Room Map
 
-![](y3_map.png)
+![](y3_map.jpg)
 
 <!-- TODO: populate once booked 
 
