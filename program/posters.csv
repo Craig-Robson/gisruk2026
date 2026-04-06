@@ -6,13 +6,13 @@ PM,Falha,Alkhuzayyim,F-GeoRAG: Few-Shot Retrieval-Augmented Generation with Larg
 AM,Benjamin,Woodier,A Comparative Deep Learning Approach to Battle Damage Detection with Foundation Model Architectures and Open Access Sentinel-1 SAR Data,https://doi.org/10.5281/zenodo.19437950
 PM,Oluwatayo,Ogunjobi,Exploring GeoAI Application in Mapping Retail Location Intelligence,https://doi.org/10.5281/zenodo.19437993
 AM,James,Ackland,Representing Missing Spatial Data,https://doi.org/10.5281/zenodo.19438093
-PM,Alper,Dincer,"Democratizing Climate Analytics: A Local-First Approach using DuckDB, H3, and WASM",
-AM,Dean,Summers,Making Earth Observation Research Reusable for Earth Action with EarthCODE,
-PM,Harry,Kirby,Mapping Inherited Infrastructure Risk across a Continuous Risk Spectrum: A Bottom-Up GIS Framework for Modelling Climate-Induced Power Cascades on Road Operability,
-AM,Meilin,Shi,Mapping Green Deficits: Assessing 3-30-300 Compliance in British Neighbourhoods,
-PM,Dongyi,Ma,Is the Queen Elizabeth Olympic Park a Cool Zone in London?,
-AM,Eliška ,Pospěchová,The Impact of Erroneous Polygonal Coverage Topology on Spatial Statistical Methods,
-AM,Danning,Song,Exploring ageing population mobility and public transport accessibility in the West Midlands,
+PM,Alper,Dincer,"Democratizing Climate Analytics: A Local-First Approach using DuckDB, H3, and WASM",https://doi.org/10.5281/zenodo.19439153
+AM,Dean,Summers,Making Earth Observation Research Reusable for Earth Action with EarthCODE,https://doi.org/10.5281/zenodo.19439176
+PM,Harry,Kirby,Mapping Inherited Infrastructure Risk across a Continuous Risk Spectrum: A Bottom-Up GIS Framework for Modelling Climate-Induced Power Cascades on Road Operability,https://doi.org/10.5281/zenodo.19439206
+AM,Meilin,Shi,Mapping Green Deficits: Assessing 3-30-300 Compliance in British Neighbourhoods,https://doi.org/10.5281/zenodo.19439241
+PM,Dongyi,Ma,Is the Queen Elizabeth Olympic Park a Cool Zone in London?,https://doi.org/10.5281/zenodo.19439312
+AM,Eliška ,Pospěchová,The Impact of Erroneous Polygonal Coverage Topology on Spatial Statistical Methods,https://doi.org/10.5281/zenodo.19439366
+AM,Danning,Song,Exploring ageing population mobility and public transport accessibility in the West Midlands,https://doi.org/10.5281/zenodo.19439386
 PM,Yijing,Zhang,Exploring the Structural Changing Distribution of Physical Retail in England and Wales,
 PM,Yuqi,Zhao,Transport Equity Implications of Metro Expansion: Uneven Accessibility Gains in Wuhan,
 AM,Qi,Gong,Some Like It Central: The Uneven Geography of Cinemas,
@@ -22,6 +22,6 @@ PM,Craig,Robson,Assessing the impact of the Elizabeth Line on accessibility acro
 AM,Yan,Wang,Is Robotaxi Travel Different from Traditional Taxi Travel? Divergent Spatial Patterns in San Francisco,
 PM,Michal,Iliev,The (In)sufficient Accessibility Measure: Bringing Underserved Populations to the Forefront,
 AM,Anna,Brázdová,The Financial Burden of Pre-School Education in Czechia: Who Pays the Highest Price?,
-PM,Rahul,Gandhi,Critical reflections on remote sensing methodologies for ethically and decolonially understanding the impact of war on the environment,
+PM,Rahul,Gandhi,Critical reflections on remote sensing methodologies for ethically and decolonially understanding the impact of war on the environment,https://doi.org/10.5281/zenodo.19439430
 AM,Evgeny,Noi,From Binary Transitions to Continuous Intensification: Deep Change Modeling of Accra’s Urban Growth,
 PM,Mohammed,Almousa,Measuring safe walking access to public transport in Riyadh using the SOLWEIG tool and the PHS model under extreme hot conditions,
