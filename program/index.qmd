@@ -136,21 +136,27 @@ posters_tbl <- read_csv("./posters.csv") |>
       Session == "PM" ~ "PM Session",
       TRUE ~ Session
     ),
-    speaker = paste(firstname, lastname)
+    speaker = paste(firstname, lastname),
+    Title_link = ifelse(
+      is.na(DOI) | DOI == "",
+      Title,                                # no DOI → leave as plain text
+      paste0("[", Title, "](", DOI, ")")    # hyperlink version
+    )
   ) |>
   arrange(Session, lastname, firstname)
 
 posters_tbl |>
-  select(Session, speaker, Title) |>
+  select(Session, speaker, Title_link) |>
   gt(groupname_col = "Session") |>
   cols_label(
     speaker = md("**Speaker**"),
-    Title = md("**Poster Title**")
+    Title_link = md("**Poster Title**")
   ) |>
   tab_style(
     style = cell_text(weight = "bold"),
     locations = cells_row_groups()
-  )
+  ) |>
+  fmt_markdown(columns = Title_link)
 
 ```
 # Room Map
