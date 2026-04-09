@@ -90,8 +90,8 @@ parallel_sessions |>
   ) |>
   cols_label(
     session = md("**Session**"),
-    room = md("**Room**")
-    # chair = md("**Chair**")
+    room = md("**Room**"),
+    chair = md("**Chair**")
   )
 ```
 
