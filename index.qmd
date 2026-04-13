@@ -17,9 +17,16 @@ Welcome to the 34th Annual GIS Research UK Conference. The conference will be ho
 
 GISRUK hosts research from across geographic information science, from fundamental research to applications of GIScience across many domains. This year, the theme is People, Planet, and Progress: GIS for Real-World Impact, and we are particularly excited to invite submissions that describe practical applications of GIS that align to the UN Sustainable Development Goals, from both academia and practice. Beyond this special invitation, we accept abstracts in the following topics, and beyond.
 
-## Accommodation
+## GISRUK 2026 best paper awards open vote!
 
-There is limited accommodation near the University of Birmingham Edgbaston campus, therefore it is recommended to book accommodation within Birmingham city centre. The campus is located approximately 10 minutes by train (via West Midlands Railway) from Birmingham New Street. The station located on campus is called “University”. Suggested accommodation options are provided [here.](https://2026.gisruk.org/accommodation/)
+There will be an open vote throughout the conference for the best papers! There are three awards, one for each of the following categories:
+- Best poster presentation
+- Best paper, student registration (oral presentation)
+- Best paper, standard registration (oral presentation)
+
+To cast your votes, please complete the following form [here](https://forms.office.com/e/Qqj95c12YM)
+
+We will announce the winners at the conference closing session on Friday 17th April. Thanks in advance for your input!
 
 ## Key Dates
 
