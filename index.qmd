@@ -20,9 +20,10 @@ GISRUK hosts research from across geographic information science, from fundament
 ## GISRUK 2026 best paper awards open vote!
 
 There will be an open vote throughout the conference for the best papers! There are three awards, one for each of the following categories:
-- Best poster presentation
-- Best paper, student registration (oral presentation)
-- Best paper, standard registration (oral presentation)
+
+* Best poster presentation
+* Best paper, student registration (oral presentation) - identified by an asterisk (\*) by their name in the Programme list
+* Best paper, standard registration (oral presentation)
 
 To cast your votes, please complete the following form [here](https://forms.office.com/e/Qqj95c12YM)
 
